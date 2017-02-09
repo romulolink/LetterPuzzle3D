@@ -1,5 +1,4 @@
-# HOW TO USE
+# GETTING STARTED
 
-1. Open the Scene Scenes/Demo
+1. Open the Scene Scenes/Demo in Unity3D
 1. Run the Game
-1. Move the Cubes in Edit Panel 
