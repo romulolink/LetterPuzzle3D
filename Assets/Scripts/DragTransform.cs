@@ -10,8 +10,7 @@ class DragTransform : MonoBehaviour
     private Color originalColor = Color.yellow;
     private bool dragging = false;
     private float distance;
-    private GameObject teste;
-
+  
     // Evento que executa quando o cursor do mouse está em cima do objeto 
     //  Troca a cord
     void OnMouseEnter()
