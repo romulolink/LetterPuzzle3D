@@ -10,6 +10,7 @@ class DragTransform : MonoBehaviour
     private Color originalColor = Color.yellow;
     private bool dragging = false;
     private float distance;
+    private GameObject teste;
 
     // Evento que executa quando o cursor do mouse está em cima do objeto 
     //  Troca a cord
@@ -42,7 +43,9 @@ class DragTransform : MonoBehaviour
     // Método da API do Unity que representa o Game Loop, executa o tempo inteiro 
     void Update()
     {
-        // Caso o objeto esteja sendo segurado
+      
+
+        // Caso o objeto esteja sendo segurado) = 
         if (dragging)
         {
             //  Calcula a direção do raio baseado na posição do mouse referente a câmera
